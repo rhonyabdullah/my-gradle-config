@@ -1,4 +1,4 @@
-# my-gradle-config-androidStudio
+# my-gradle-config
 
 This is the gradle configuration that i'm using for my android studio project to enable google [error-prone compiler](http://errorprone.info/).
 
